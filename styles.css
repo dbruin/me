@@ -16,3 +16,41 @@ img {
     height: auto;
     border-radius: 50%;
 }
+
+section {
+    margin: 20px auto;
+    max-width: 600px;
+}
+
+h2 {
+    color: navy;
+    border-bottom: 2px solid navy;
+    padding-bottom: 5px;
+}
+
+p {
+    line-height: 1.6;
+}
+
+ul {
+    list-style-type: square;
+    padding-left: 20px;
+}
+
+li {
+    margin-bottom: 10px;
+}
+
+a {
+    color: gray;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+#fun-fact {
+    background-color: #f9f9f9;
+    padding: 20px;
+}
