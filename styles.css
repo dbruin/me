@@ -42,7 +42,7 @@ li {
 }
 
 a {
-    color: white;
+    color: navy;
     text-decoration: none;
 }
 
@@ -51,6 +51,6 @@ a:hover {
 }
 
 #fun-fact {
-    background-color: navy;
+    background-color: #f9f9f9;
     padding: 20px;
 }
